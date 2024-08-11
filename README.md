@@ -9,6 +9,9 @@
 1. **Home Page**:
    - **Upload Image**: Users can upload images via the home page. The interface is designed to be intuitive, with a prominent upload button.
    - **Background**: The page features a GIF background and a tagline to enhance visual appeal.
+![image](https://github.com/user-attachments/assets/063ad298-409e-4946-9b6f-ac002c6ee4de)
+
+![image](https://github.com/user-attachments/assets/a9e51223-fa7e-4915-bf81-93ba1c39b41f)
 
 2. **Uploaded Images Page**:
    - **View Uploaded Images**: After uploading, users are redirected to a page where they can see a list of uploaded images.
@@ -16,6 +19,8 @@
 
 3. **Extracted Text**:
    - **Text Display**: Once text is extracted, it appears in a text area on the right side of the screen, providing a clear view of the extracted content.
+![image](https://github.com/user-attachments/assets/151e0c63-2ff9-457e-987e-3a6a43ff5922)
+
 
 ## Flask Application
 
